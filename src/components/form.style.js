@@ -48,6 +48,9 @@ align-items : center;
 padding : 15px;
 border-radius : 10px;
 
+img{
+    width : 60%;
+}
 @media (max-width : 960px){
     width : 80vw;
 }
